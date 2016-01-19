@@ -52,13 +52,13 @@
 ### C
 
 * [Canvas](/glossary/CANVAS.md): HTML-элемент для создания двумерных и трёхмерных графических приложений.
-* [Chai](/glossary/CHAI.md): an assertion library used with a JavaScript testing framework.
+* [Chai](/glossary/CHAI.md): библиотека ассертов для тестовых фреймворков
 * [Closure](/glossary/CLOSURE.md) (рус. *замыкание*): функция, вложенная в другие функции и имеющая доступ к переменным из внешних функций; при этом все её внутренние переменные скрыты для внешних функций.
 * [CoffeeScript](/glossary/COFFEESCRIPT.md): метаязык, компилируемый в JavaScript.
-* [CORS](/glossary/CORS.md): a way for a server to make things accessible to pages hosted on other domains.
+* [CORS](/glossary/CORS.md): фича сервера, которая предоставляет доступ к его ресурсам с других доменов.
 * [CouchDB](/glossary/COUCHDB.md): NoSQL база данных, использующая JavaScript как язык запросов и HTTP как API.
 * [CommonJS](/glossary/COMMONJS.md): *to be completed.*
-* [Currying](/glossary/CURRYING.md): the process to transform a function with multiple parameters into a chain of functions of one parameter.
+* [Currying](/glossary/CURRYING.md): процесс трансфирмации функции с множеством параметров, в "цепь" функций с одним параметром
 
 ### D
 
@@ -70,8 +70,8 @@
 
 * [ECMAScript](/glossary/ECMASCRIPT.md): стандартизованная спецификация скриптового языка, используемая в JavaScript.
 * [Ember](/glossary/EMBER.md): an application framework based on the model-view-controller pattern.
-* [ESLint](/glossary/ESLINT.md): a JavaScript code linter.
-* [Express](/glossary/EXPRESS.md): a fast, un-opinionated, minimalist web framework for Node.js.
+* [ESLint](/glossary/ESLINT.md): статический анализатор кода JavaScript
+* [Express](/glossary/EXPRESS.md): быстрый, робкий и минималистичный веб-фреймворк для Node.js
 
 ### F
 
